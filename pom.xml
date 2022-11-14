@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<properties>
-		<spring_version> 4.1.1.RELEASE</spring_version>
+		<spring_version>4.2.7.RELEASE</spring_version>
 	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
